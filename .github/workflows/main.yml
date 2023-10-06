@@ -27,7 +27,7 @@ jobs:
             caicke/conversao-temperatura:v${{ github.run_number }}
             caicke/conversao-temperatura:latest
 
-  # CD:
+   # CD:
   #   runs-on: ubuntu-latest
   #   needs: [CI]
   #   steps:
